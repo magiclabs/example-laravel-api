@@ -9,6 +9,8 @@ A tutorial to demonstrate how to add authorization to a Laravel API with [Magic'
 ```bash
 $ git clone https://github.com/magiclabs/example-laravel-api.git
 $ cd example-laravel-api
+$ mv .env.example .env
+$ composer install
 ```
 
 ## Get your Magic Secret Key
