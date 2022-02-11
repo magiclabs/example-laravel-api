@@ -23,7 +23,7 @@ Sign Up with [Magic](https://dashboard.magic.link/signup) and get your **`MAGIC_
 
 ```text
 
-MAGIC_SECRET_API_KEY=sk_test_123456789
+MAGIC_SECRET_API_KEY=sk_live_123...
 
 ```
 
