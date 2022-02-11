@@ -37,7 +37,7 @@ To get the DID Token for testing, fork our [Laravel API Authorization template](
 
 ![Dashboard Image](https://dev-to-uploads.s3.amazonaws.com/i/fnjqvscslu11ih87p94t.png)
 
-Replace the `pk_test_5A2E52658C87281B` string with your `Publishable API Key` from the Magic Dashboard: on `line 46`
+Replace the `pk_test_123...` string with your `Publishable API Key` from the Magic Dashboard: on `line 46`
 
 ```javascript
 /* 2️⃣ Initialize Magic Instance */
